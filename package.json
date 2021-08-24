@@ -1,0 +1,19 @@
+{
+  "name": "@malmz/lithium",
+  "type": "module",
+  "version": "1.0.1",
+  "description": "Tiny reactive web component library",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "author": "Carl Malmgren",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.4",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@github/jtml": "^0.4.0",
+    "lodash-es": "^4.17.21"
+  }
+}
